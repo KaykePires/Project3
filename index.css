@@ -22,7 +22,7 @@
 .Text1{
     display: flex;
     letter-spacing: 5px;
-    padding-top: 35px;
+    padding-top: 30px;
     padding-left: 35px;
     font-family: 'Montserrat', sans-serif;
     opacity: 0.5;
@@ -31,8 +31,8 @@
 .Central{
     display: flex;
     flex-direction: column;
-    font-size: 20px;
-    margin-top: 15px;
+    font-size: 18px;
+    margin-top: 12px;
     line-height: 45px;
     text-align: start;
     font-family: 'Fraunces', serif;
@@ -46,7 +46,7 @@
 
 
 #img{
-    width: 350px;
+    width: 330px;
     border-top-left-radius: 10px;
     border-end-start-radius:10px;
     margin-top: 4px;
@@ -54,7 +54,7 @@
 
 .Feqa4{
     width: 350px;
-    height: 525px;
+    height: 495px;
     background-color: white;
     border-top-right-radius: 10px;
     border-bottom-right-radius:10px ;
@@ -76,7 +76,7 @@
     display: flex;
     align-items: center;
     text-align: start;
-    margin-top: 30px;
+    margin-top: 15px;
     padding-left: 30px;
 }
 
